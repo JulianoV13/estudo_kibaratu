@@ -24,4 +24,4 @@ Nesse caso, você aprenderá a montar um banco de dados usando uma loja fictíci
 <h1 align="center"> Modelagem conceitua do kibaratu 📚</h1>
 
 
-![diagrama do modelo conceitual](./modelo kibaratu.png)
+![diagrama do modelo conceitual](./modelo_kibaratu.png)
